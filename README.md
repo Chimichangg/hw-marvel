@@ -15,7 +15,7 @@ Hulk
 2.	Full Question Lists (Finished)
 3.	Value Assignment for Heros (Finished)
 4. 	Adding Pillow and Images (Finished)
-5.	Game Flow & Aesthetics (Unfinished)
+5.	Game Flow & Aesthetics (Finished)
 6.	Decoration (Unfinished)
  
 
