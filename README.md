@@ -14,8 +14,9 @@ Hulk
 1.	Copy Template & Folder Structure (Finished)
 2.	Full Question Lists (Finished)
 3.	Value Assignment for Heros (Finished)
-4.	Game Flow & Aesthetics (Unfinished)
-5.	Decoration (Unfinished)
+4. 	Adding Pillow and Images (Finished)
+5.	Game Flow & Aesthetics (Unfinished)
+6.	Decoration (Unfinished)
  
 
 ## MIT License
