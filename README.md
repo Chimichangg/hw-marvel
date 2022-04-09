@@ -16,7 +16,7 @@ Hulk
 3.	Value Assignment for Heros (Finished)
 4. 	Adding Pillow and Images (Finished)
 5.	Game Flow & Aesthetics (Finished)
-6.	Decoration (Unfinished)
+6.	Decoration (Finished)
  
 
 ## MIT License
