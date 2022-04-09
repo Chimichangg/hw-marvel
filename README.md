@@ -12,7 +12,7 @@ Hulk
 
 ## Product Roadmap
 1.	Copy Template & Folder Structure (Finished)
-2.	Full Question Lists (Unfinished)
+2.	Full Question Lists (Finished)
 3.	Value Assignment for Heros (Unfinished)
 4.	Game Flow & Aesthetics (Unfinished)
 5.	Decoration (Unfinished)
